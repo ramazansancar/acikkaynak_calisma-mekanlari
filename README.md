@@ -13,6 +13,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Ankara](#-ankara)
 - [Aydın](#-aydin)
 - [Bursa](#-bursa)
+- [Diyarbakır](#-diyarbakir)
 - [Isparta](#-isparta)
 - [İstanbul](#-i̇stanbul)
 - [İzmir](#-i̇zmir)
@@ -65,7 +66,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Caferağa                | Walter's Coffee Roastery     | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 10:00 - 23:00    | @walterscoffee         | <https://maps.app.goo.gl/NRQZ7xNsFkX5rt6B9> | N/A    |
 | Beyoğlu                 | Türk Alman Kitabevi & Cafe   | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 4/10             | 07:00 - 23:00    | @turkalmankitabevicafe | <https://maps.app.goo.gl/T2AsozoFMjyZngnd7> | N/A    |
 | Taksim                  | Straborn Coffee AKM Taksim   | Cafe        | Her masada mevcut                        | Mevcut | 100-150 Mbps           | 2/10             | 09:00 - 22:00    | @straborncoffee        | <https://maps.app.goo.gl/BjBNcPPjqnESKQiv6> | N/A    |
+| Kadıköy                  | Vogs Coffee   | Cafe        | Duvar kenarı masalarda mevcut                        | Mevcut | N/A           | 3/10             | 10:00 - 02:00    | @vogscoffee        | <https://maps.app.goo.gl/LUXtCpo95znPcvUN8> | N/A    |
 |Bahçelievler |	Patika Kafe|	N/A|	Çoğu masada mevcut|	Mevcut|	350 Mbps|4/10|	10:00 - 00:00|	@kafe_patika|	https://g.co/kgs/RKZL8Bi|	N/A
+
 
 ## 📚 Ankara
 
@@ -84,12 +87,14 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Antalya
 
-| Konum     | İsim             | Kategoriler  | Priz                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                      | Notlar |
-| --------- | ---------------- | ------------ | ---------------------- | ------ | --------- | ---------------- | ---------------- | ---------------- | ------------------------------------------- | ------ |
-| Lara      | Coffee Lab       | N/A          | Çoğu masada mevcut     | Mevcut | N/A       | N/A              | 07:30 - 00:00    | @coffeelabtr     | <https://goo.gl/maps/P3gPRApPt1RF47Qr7>     | N/A    |
-| Konyaaltı | Coffee's         | N/A          | Duvar kenarı masalarda | Mevcut | N/A       | N/A              | 07:45 - 00:30    | @coffeesmycafe   | <https://goo.gl/maps/5oSs1JuLB3qgS72ZA>     | N/A    |
-| Muratpaşa | Poe Coffee House | Cafe         | Çoğu masada mevcut     | Mevcut | 70 Mbps   | 2/10             | 09:00 - 00:00    | @poebookcoffee   | <https://maps.app.goo.gl/ADQ7ubvAYCLpZUoX6> | N/A    |
-| Muratpaşa | Başka Ol         | Kahve, Yemek | Çoğu masada mevcut     | Mevcut | N/A       | 6/10             | 08:30 - 00:00    | @baska.ol        | <https://maps.app.goo.gl/uzGkSE2LWn9Jz4Zz7> | N/A    |
+| Konum     | İsim             | Kategoriler         | Priz                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                      | Notlar |
+| --------- | ---------------- | ------------------- | ---------------------- | ------ | --------- | ---------------- | ---------------- | ---------------- | ------------------------------------------- | ------ |
+| Lara      | Coffee Lab       | N/A                 | Çoğu masada mevcut     | Mevcut | N/A       | N/A              | 07:30 - 00:00    | @coffeelabtr     | <https://goo.gl/maps/P3gPRApPt1RF47Qr7>     | N/A    |
+| Konyaaltı | Coffee's         | N/A                 | Duvar kenarı masalarda | Mevcut | N/A       | N/A              | 07:45 - 00:30    | @coffeesmycafe   | <https://goo.gl/maps/5oSs1JuLB3qgS72ZA>     | N/A    |
+| Konyaaltı | Starbucks        | Kahve, Atıştırmalık | Çoğu masada mevcut     | Mevcut | ~90Mbps   | 2/10             | 08:00 - 23:30    | @starbuckstr     | <https://maps.app.goo.gl/D35717zuMJUzQotX8> | 2 katlı olduğu için üst katta çalışma fırsatı oluyor ve gelen insanlar genelde sessiz çalışıyor. Bu sebeple çok az gürültü oluyor. Ortam gayet temiz ve sakin. Toplu çalışmalar için büyük çalışma masası da mevcut. 4-5 arkadaş gidilebilir. |
+| Muratpaşa | Poe Coffee House | Cafe                | Çoğu masada mevcut     | Mevcut | 70 Mbps   | 2/10             | 09:00 - 00:00    | @poebookcoffee   | <https://maps.app.goo.gl/ADQ7ubvAYCLpZUoX6> | N/A    |
+| Muratpaşa | Başka Ol         | Kahve, Yemek        | Çoğu masada mevcut     | Mevcut | N/A       | 6/10             | 08:30 - 00:00    | @baska.ol        | <https://maps.app.goo.gl/uzGkSE2LWn9Jz4Zz7> | N/A    |
+| Konyaaltı | Starbucks        | Kahve, Atıştırmalık | Çoğu masada mevcut     | Mevcut | ~85Mbps   | 8/10             | 09:00 - 23:00    | @starbuckstr     | <https://maps.app.goo.gl/iuaiJLHp4KH8qcCV8> | N/A    |
 
 ## 📚 Bursa
 
@@ -97,6 +102,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | ----------- | ------------------- | ------------ | ----------------------------- | ------ | ---------- | ---------------- | --------------------- | ---------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | FSM Bulvarı | Espresso Lab        | N/A          | Duvar kenarı masalarda mevcut | Mevcut | 30-40 Mbps | N/A              | 7/24 Açık             | N/A              | <https://goo.gl/maps/9Goepb6HFkPLF9897> | N/A                                                                                                                                  |
 | 23 Nisan    | Vitrin Coffee & Tea | Kahve, Yemek | Masa altlarında mevcut        | Mevcut | 30+ Mbps   | 2/10             | 09.00 a.m - 01.00 a.m | @vitrincoffee    | <https://goo.gl/maps/qYS7k5qqa5Xoo7CP6> | Garsonlar darlamıyor. Sessiz sakin. Klimalı. Kahve ve türevleri var. Dart, satranç ve tavla için oyun alanı mevcut. Fiyatlar normal. |
+
+## 📚 Diyarbakır
+
+| Konum | İsim | Kategoriler | Priz  | WIFI | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita | Notlar |
+| ----- | ---- | ----------- | ----- | ---- | --------- | ---------------- | ---------------- | ---------------- | ------ | ------ |
+| Forum Diyarbakır | Starbucks | Kahve, Atıştırmalık | İçerideki bütün masaların dibinde mevcut. | Mevcut | ~90 Mbps  | 5/10 | 10:00 - 22:00 | @starbuckstr | <https://maps.app.goo.gl/CACUao83YwENwWau7> | Müzik sesini azaltmayı rica edebiliyorsunuz. Klima konusunda hiçbir sorun yok hatta bazen kapattırmak zorunda kalınabiliyor. Hiçbir şey almayıp çalışabiliyorsunuz. |
+| Mezopotamya Caddesi | Starbucks | Kahve, Atıştırmalık | Sadece siparişin teslim edildiği yerin yanındaki duvar dibindeki masalarda mevcut. | Mevcut | ~180 Mbps  | 7/10 | 08:00 - 00:00 | @starbuckstr | <https://maps.app.goo.gl/nFwy1q1uimTd2wpN7> | Müzik sesini azaltmayı rica edebiliyorsunuz. Klima konusunda hiçbir sorun yok hatta bazen kapattırmak zorunda kalınabiliyor. Hiçbir şey almayıp çalışabiliyorsunuz. Masalar çok yakın olduğu için gürültü biraz fazla olabiliyor. |
 
 ## 📚 Aydin
 
@@ -169,6 +181,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A                 | <https://goo.gl/maps/ihXgzcZi4c6SAjT19>     | N/A    |
 | Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A                 | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA>     | N/A    |
 | Datça    | The Coffee Grinder             | Cafe        | Çalışma masaında mevcut       | Mevcut | N/A        | 3/10             | 08.00 - 00.00    | @coffeegrinderdatca | <https://maps.app.goo.gl/diHVG2mhRYoaX6cKA> | N/A    |
+| Menteşe  | HelloWork Coffee               | Cafe        | İçeride Mevcut, Workspace Var | Mevcut | 10-25 Mbps | 5/10             | 08.30 - 00.00    | @hellowork_coffee   | <https://maps.app.goo.gl/zSSLEtUqtTFMf3QC9> | N/A    |
 
 ## 📚 Sakarya
 

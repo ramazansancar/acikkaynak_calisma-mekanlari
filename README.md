@@ -25,8 +25,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## Web UI
 
-🌐 <https://calisma-mekanlari-app.vercel.app/>
-👏 Thank you for Web UI [@code-a-man](https://github.com/code-a-man)
+🌐 <https://calisma-mekanlari.vercel.app/> - [[Source Code (gh)](https://github.com/ramazansancar/code-a-man_calisma-mekanlari-app)] - 👏 Thank you for Web UI [@code-a-man](https://github.com/code-a-man)
 
 ## 📚 İzmir
 
